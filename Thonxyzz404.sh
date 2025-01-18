@@ -1,6 +1,6 @@
 # --------------------------------------------------
 # ENCRYPTED BY Thonxyzz404
-# Github   : https://github.com/Cyber404119/Toolsv7
+# Github : https://github.com/Cyber404119/Toolsv7
 # --------------------------------------------------
 NFS=$(mktemp)
 base32 -d  >${NFS}<<B14CK-KN1GH7
