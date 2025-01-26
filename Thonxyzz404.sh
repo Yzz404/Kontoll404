@@ -1,5 +1,5 @@
 # =============================== #
-#              BY Thonxyzz404
+#       BY Thonxyzz404
 # =============================== #
 NFS=/data/data/com.termux/files/usr/tmp/tmp.jiaAxc2Z4d
 base32 -d >${NFS}<<THONXYZZ404EOFYZXYRWQQPYXZA
